@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dmitriy Fedulov from Russia, Dzherzhinsk.
 - 👀 I’m interested in everythings about IT
-- 🌱 I’m currently learning Data Scientist.
+- 🌱 I’m currently learning DevOps.
 - 📫 How to reach me dimit-1@yandex.ru
 
 <!---
